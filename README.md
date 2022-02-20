@@ -33,7 +33,7 @@
 * Upon searching a movie:
   <img src="https://github.com/darsh12shah/reco-movie/blob/main/movie%20info.png">
  * Reccomendations given:
-<img src="https://github.com/darsh12shah/reco-movie/blob/main/reccomendation.png">
+<img src="https://github.com/darsh12shah/reco-movie/blob/main/Screenshot%20(5).png">
 
 * When movie isnt present in th database:
 <img src="https://github.com/darsh12shah/reco-movie/blob/main/failure.png.png">
