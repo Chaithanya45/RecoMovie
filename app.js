@@ -57,7 +57,7 @@ app.post("/", function(req, res) {
 
     })
     .catch(error => {
-      console.log(error.statusCode);
+      res.render("fail");
     });
 
 })
