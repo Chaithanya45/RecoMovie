@@ -1,4 +1,4 @@
-<h1> Movie Recommendation System <h1>
+<h1> Movie Recommendation System </h1>
   
 <h2> Winter Project Team #41 </h2>
      <li> Darsh Kevin Shah (2019BCS-015) </li>
