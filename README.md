@@ -5,7 +5,7 @@
     <li> Chaithanya.Y (2019BCS-014) </li>
   
   <h2> Project Description: </h2>
-  This is a movie reccomendation website.It reccomends movies which have similar ratings or genre or cast.The backend is based on
+  This is a movie recommendation website.It recommends movies which have similar ratings or genre or cast.The backend is based on
   Collaborative filtering - uses the information of the connection between the user and movies.
   For example, users which give similar ratings to a movie. Hybrid - uses a combination of collaborative and content based recommendations.
   
