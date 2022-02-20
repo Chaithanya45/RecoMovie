@@ -5,11 +5,10 @@
     <li> Chaithanya.Y (2019BCS-014) </li>
   
   <h2> Project Description: </h2>
-  This is a movie recommendation website.It recommends movies which have similar ratings or genre or cast.The backend is based on
+  This is a movie recommendation website. It recommends movies that have similar ratings or genres or cast. The backend is based on
   Collaborative filtering - uses the information of the connection between the user and movies.
-  For example, users which give similar ratings to a movie. Hybrid - uses a combination of collaborative and content based recommendations.
-  
-  <h3> Frontend URL: </h3>
+ 
+ <h3> Frontend URL: </h3>
   https://enigmatic-tundra-22449.herokuapp.com
   
   <h3> Backend URL: </h3>
