@@ -13,7 +13,7 @@
   https://enigmatic-tundra-22449.herokuapp.com
   
   <h3> Backend URL: </h3>
-  https://movielens-ap.herokuapp.com/movies/[basis]/?movie=[movie]&limit=n
+  https://movielens-ap.herokuapp.com/movies/content/?movie=[movie]&limit=n
  
  <h3> Web Stack: </h3>
    <li> Node Js </li>
