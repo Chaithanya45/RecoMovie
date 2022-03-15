@@ -10,9 +10,6 @@
  
  <h3> Frontend URL: </h3>
   https://enigmatic-tundra-22449.herokuapp.com
-  
-  <h3> Backend URL: </h3>
-  https://movielens-ap.herokuapp.com/movies/hybrid/?movie=Toy Story (1995)&limit=10
  
  <h3> Web Stack: </h3>
    <li> Node Js </li>
